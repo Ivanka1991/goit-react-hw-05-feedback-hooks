@@ -1,0 +1,18 @@
+.statistic__info {
+  margin: 20px;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.info__item__good {
+  color: green;
+}
+.info__item__neutral {
+  color: yellow;
+}
+.info__item__bad {
+  color: red;
+}
+.info__item {
+  color: grey;
+}
